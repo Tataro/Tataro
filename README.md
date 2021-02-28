@@ -1,4 +1,4 @@
-### Yo man! 👋
+### สวัสดีครับ (Yo man!) 👋
 
 I'm **Tat**, the most handsome Software Engineer in Thailand, Javascript lover ✨
 
