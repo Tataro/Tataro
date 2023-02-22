@@ -1,6 +1,6 @@
-### สวัสดีครับ (Yo man!) 👋
+### สวัสดีครับ 👋
 
-I'm **Tat**, the most handsome Software Engineer in Thailand, Javascript lover ✨
+I'm **Tat**, Software Engineer in Thailand, Javascript lover ✨
 
 ![Tat's GitHub stats](https://github-readme-stats.vercel.app/api?username=tataro&count_private=true&show_icons=true&count_private=true&theme=radical)
 
