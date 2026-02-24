@@ -1,7 +1,13 @@
-### สวัสดีครับ 👋
+### Hi there, I'm Tat 👋
 
-I'm **Tat**, Software Engineer in Thailand, Javascript lover ✨
+I'm a Senior Software Developer and Co-founder at **Command See**, based in Thailand. I enjoy building scalable applications, designing microservices architectures, and integrating AI-driven workflows.
 
-![Tat's GitHub stats](https://github-readme-stats.vercel.app/api?username=tataro&count_private=true&show_icons=true&count_private=true&theme=radical)
+**What I do:**
+* 💻 **Building:** Modern web apps and infrastructure using Next.js, TypeScript, and Go.
+* ⚙️ **Architecture:** Microservices, AWS EKS, Terraform, and CI/CD pipelines.
+* 🤖 **Exploring:** AI Agents (OpenClaw, MCP), Web3, and workflow automation.
+* 🎹 **Off-screen:** When I'm not coding, I'm usually playing the piano.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tataro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+**Let's connect:**
+* 🌐 [resume.bytat.dev](https://resume.bytat.dev)
+* 💼 [LinkedIn](https://linkedin.com/in/kittitat-upaphong)
